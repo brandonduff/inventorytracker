@@ -1,2 +1,2 @@
 # inventorytracker
-2D Barcode Scanner/Inventory Tracker for iOS
+Barcode Scanner/Inventory Tracker for iOS
